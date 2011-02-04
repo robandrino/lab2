@@ -1,5 +1,6 @@
 GEM
   remote: http://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     abstract (1.0.0)
     actionmailer (3.0.3)
@@ -71,5 +72,5 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  rails (= 3.0.3)
+  rails
   sqlite3-ruby
